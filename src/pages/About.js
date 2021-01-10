@@ -32,9 +32,9 @@ function About() {
             </p>
                     </Col>
                 </Row>
-                <Row>
+                {/* <Row>
                     <h2>Skills</h2>
-                </Row>
+                </Row> */}
                 <Row>
                     <Col size="md-4">
                     <h3>Languages:</h3>
