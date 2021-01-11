@@ -3,9 +3,9 @@ import "./style.css";
 
 function Footer() {
     return (
-        <footer class="footer bg-dark mt-auto py-3">
-            <div class="container">
-                <span class="text-muted">DSaunders Portfolio 2021</span>
+        <footer class="footer mt-auto text-center">
+            <div class="container py-3">
+                <p>DS Portfolio &copy; 2021</p>
             </div>
         </footer>
 
