@@ -1,5 +1,16 @@
-.App {
-  text-align: center;
+
+body {
+  color: #11001c;
+  background-color: #F7F6F9;
+}
+
+p a {
+  color: purple!important;
+  
+}
+p a:hover {
+  text-decoration: none;
+  text-shadow: 0 0 .65px #333, 0 0 .65px #333;
 }
 
 .App-logo {
