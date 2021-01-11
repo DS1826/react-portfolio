@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #11001c;
+}
+
+li .fa-lg {
+    color: #fff!important;
+}
+
+.nav-item a:hover {
+    text-decoration: none;
+}
