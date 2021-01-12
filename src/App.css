@@ -1,7 +1,11 @@
 
-body {
+html, body {
   color: #11001c;
   background-color: #F7F6F9;
+  min-height: 400px;
+  margin-bottom: 100px;
+  padding: 0;
+  
 }
 
 .container {
