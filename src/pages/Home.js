@@ -1,11 +1,11 @@
 import React from "react";
 import Hero from "../components/Hero";
-import abstract from "../abstract.jpg";
+// import abstract from "../abstract.jpg";
 
 
 function Home() {
     return (
-    <Hero backgroundImage={ abstract }>
+    <Hero>
         <h1>Hi. I'm Dina Saunders</h1>
         <h2>I design & build web applications</h2>
       </Hero>
@@ -13,3 +13,5 @@ function Home() {
 }
 
 export default Home;
+
+// backgroundImage={ abstract }
