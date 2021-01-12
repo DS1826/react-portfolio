@@ -3,10 +3,12 @@ import "./style.css";
 
 function Hero(props) {
   return (
-    <div className="hero text-center" style={{ backgroundImage: `url(${props.backgroundImage})` }}>
+    <div className="jumbotron text-center bg-img cover">
       {props.children}
     </div>
   );
 }
 
 export default Hero;
+
+// style={{ backgroundImage: `url(${props.backgroundImage})` }}
