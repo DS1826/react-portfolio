@@ -1,11 +1,9 @@
-.navbar {
-    background-color: #11001c;
-}
+.navbar-nav, .navbar-brand {
+   font-weight: bolder;
 
-li .fa-lg {
-    color: #fff!important;
 }
 
 .nav-item a:hover {
     text-decoration: none;
-}
+    opacity: 0.5;
+} 
