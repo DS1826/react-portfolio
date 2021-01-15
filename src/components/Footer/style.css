@@ -3,20 +3,10 @@
     max-width: 680px;
     padding: 0 15px;
   }
-  
-  .footer {
-    position: fixed;
-    background-color: #11001c;
-    bottom: 0;
-    width: 100%;
-    color: #fff!important;
-    margin-top: auto;
-  
 
-  
 
+  footer {
+    z-index: initial;
   }
 
-  footer p {
-    color: #fff!important;
-  }
+  
