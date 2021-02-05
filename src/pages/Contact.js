@@ -20,7 +20,7 @@ function Contact() {
                     <Col size="md-6">
                         <p className="lead">Have an exciting project in mind?</p>
                         <p className="lead">Need some help with your website development?</p>
-                        <p className="lead">Send me a <a href="mailto: dina.m.1826@gmail.com">message.</a></p>
+                        <p className="lead">Send me a message at <a href="mailto: dina.m.1826@gmail.com">dina.m.1826@gmail.com.</a></p>
                         <p class="lead">You can also find me on <a href="https://www.linkedin.com/in/dina-saunders" target="_blank" rel="noreferrer">LinkedIn</a> and <a href="https://github.com/DS1826" target="_blank" rel="noreferrer">GitHub</a>.</p>
                     </Col>
                     <Col size="md-3"></Col>
